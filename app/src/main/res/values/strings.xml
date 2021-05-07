@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Address_App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="addAddress">add</string>
+    <string name="my_hint">first name</string>
+    <string name="my_shint">last name</string>
+    <string name="my_thint">phone number</string>
+    <string name="my_fhint">address</string>
+    <string name="my_search">Search</string>
+    <string name="new_address">new address</string>
+    <string name="finished">done</string>
+    <string name="test">lets go</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
